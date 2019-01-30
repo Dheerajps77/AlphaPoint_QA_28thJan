@@ -1,0 +1,72 @@
+﻿2019-01-29 09:59:34,473 [13] INFO AlphaPoint_QA.Utils.APLogger - Test Started
+2019-01-29 09:59:53,642 [13] ERROR AlphaPoint_QA.Utils.APLogger - Verify Sell Market Order Failed
+2019-01-29 09:59:53,658 [13] ERROR AlphaPoint_QA.Utils.APLogger -    at AlphaPoint_QA.Common.UserSetFunctions.Click(IWebElement element) in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Common\UserSetFunctions.cs:line 21
+   at AlphaPoint_QA.pages.OrderEntryPage.PlaceMarketSellOrder(Double sellAmount) in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Pages\OrderEntryPage.cs:line 234
+   at AlphaPoint_QA.Pages.VerifyOrdersTab.VerifyFilledOrdersTab(String instrument, String side, Double size) in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Pages\VerifyOrdersTab.cs:line 56
+   at AlphaPoint_QA.Test.OrderEntryTest.VerifySellMarketOrder() in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Test\OrderEntryTest.cs:line 94
+2019-01-29 09:59:53,671 [13] INFO AlphaPoint_QA.Utils.APLogger - Test Started
+2019-01-29 09:59:55,681 [13] ERROR AlphaPoint_QA.Utils.APLogger - Logout failed
+2019-01-29 09:59:55,682 [13] ERROR AlphaPoint_QA.Utils.APLogger -    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScriptCommand(String script, String commandName, Object[] args)
+   at AlphaPoint_QA.Common.UserCommonFunctions.ScrollingUpVertical(IWebDriver driver) in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Common\UserCommonFunctions.cs:line 149
+   at AlphaPoint_QA.Common.UserFunctions.LogOut() in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Common\UserFunctions.cs:line 77
+2019-01-29 09:59:55,715 [13] INFO AlphaPoint_QA.Utils.APLogger - Test Started
+2019-01-29 09:59:55,718 [13] ERROR AlphaPoint_QA.Utils.APLogger - Login failed
+2019-01-29 09:59:55,718 [13] ERROR AlphaPoint_QA.Utils.APLogger -    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)
+   at AlphaPoint_QA.Common.UserFunctions.LogIn(ILog logger) in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Common\UserFunctions.cs:line 51
+2019-01-29 09:59:55,718 [13] ERROR AlphaPoint_QA.Utils.APLogger - Verify Sell Stop Order Failed
+2019-01-29 09:59:55,719 [13] ERROR AlphaPoint_QA.Utils.APLogger -    at AlphaPoint_QA.Pages.VerifyOrdersTab.VerifyOpenOrdersTab(String instrument, String side, Double sizeAmount, Double stopPrice) in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Pages\VerifyOrdersTab.cs:line 118
+   at AlphaPoint_QA.Test.OrderEntryTest.VerifySellStopOrder() in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Test\OrderEntryTest.cs:line 144
+2019-01-29 09:59:55,719 [13] INFO AlphaPoint_QA.Utils.APLogger - Test Started
+2019-01-29 09:59:57,723 [13] ERROR AlphaPoint_QA.Utils.APLogger - Logout failed
+2019-01-29 09:59:57,723 [13] ERROR AlphaPoint_QA.Utils.APLogger -    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScriptCommand(String script, String commandName, Object[] args)
+   at AlphaPoint_QA.Common.UserCommonFunctions.ScrollingUpVertical(IWebDriver driver) in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Common\UserCommonFunctions.cs:line 149
+   at AlphaPoint_QA.Common.UserFunctions.LogOut() in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Common\UserFunctions.cs:line 77
+2019-01-29 09:59:57,725 [13] INFO AlphaPoint_QA.Utils.APLogger - Test Started
+2019-01-29 09:59:57,725 [13] INFO AlphaPoint_QA.Utils.APLogger - Test Started
+2019-01-29 09:59:57,728 [13] ERROR AlphaPoint_QA.Utils.APLogger - Login failed
+2019-01-29 09:59:57,728 [13] ERROR AlphaPoint_QA.Utils.APLogger -    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)
+   at AlphaPoint_QA.Common.UserFunctions.LogIn(ILog logger) in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Common\UserFunctions.cs:line 51
+2019-01-29 09:59:57,728 [13] ERROR AlphaPoint_QA.Utils.APLogger - Verify Buy Stop Order Failed
+2019-01-29 09:59:57,728 [13] ERROR AlphaPoint_QA.Utils.APLogger -    at AlphaPoint_QA.Pages.VerifyOrdersTab.VerifyOpenOrdersTab(String instrument, String side, Double sizeAmount, Double stopPrice) in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Pages\VerifyOrdersTab.cs:line 118
+   at AlphaPoint_QA.Test.OrderEntryTest.VerifyBuyStopOrder() in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Test\OrderEntryTest.cs:line 119
+2019-01-29 09:59:57,729 [13] INFO AlphaPoint_QA.Utils.APLogger - Test Started
+2019-01-29 09:59:59,732 [13] ERROR AlphaPoint_QA.Utils.APLogger - Logout failed
+2019-01-29 09:59:59,733 [13] ERROR AlphaPoint_QA.Utils.APLogger -    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScriptCommand(String script, String commandName, Object[] args)
+   at AlphaPoint_QA.Common.UserCommonFunctions.ScrollingUpVertical(IWebDriver driver) in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Common\UserCommonFunctions.cs:line 149
+   at AlphaPoint_QA.Common.UserFunctions.LogOut() in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Common\UserFunctions.cs:line 77
+2019-01-29 09:59:59,735 [13] INFO AlphaPoint_QA.Utils.APLogger - Test Started
+2019-01-29 09:59:59,738 [13] ERROR AlphaPoint_QA.Utils.APLogger - Login failed
+2019-01-29 09:59:59,738 [13] ERROR AlphaPoint_QA.Utils.APLogger -    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)
+   at AlphaPoint_QA.Common.UserFunctions.LogIn(ILog logger) in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Common\UserFunctions.cs:line 51
+2019-01-29 09:59:59,738 [13] ERROR AlphaPoint_QA.Utils.APLogger - Verify Buy Market Order Failed
+2019-01-29 09:59:59,739 [13] ERROR AlphaPoint_QA.Utils.APLogger -    at AlphaPoint_QA.Common.UserFunctions.LogIn(ILog logger) in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Common\UserFunctions.cs:line 67
+   at AlphaPoint_QA.Test.OrderEntryTest.VerifyBuyMarketOrder() in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Test\OrderEntryTest.cs:line 67
+2019-01-29 09:59:59,739 [13] INFO AlphaPoint_QA.Utils.APLogger - Test Started
+2019-01-29 10:00:01,742 [13] ERROR AlphaPoint_QA.Utils.APLogger - Logout failed
+2019-01-29 10:00:01,742 [13] ERROR AlphaPoint_QA.Utils.APLogger -    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScriptCommand(String script, String commandName, Object[] args)
+   at AlphaPoint_QA.Common.UserCommonFunctions.ScrollingUpVertical(IWebDriver driver) in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Common\UserCommonFunctions.cs:line 149
+   at AlphaPoint_QA.Common.UserFunctions.LogOut() in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Common\UserFunctions.cs:line 77
+2019-01-29 10:00:01,743 [13] INFO AlphaPoint_QA.Utils.APLogger - Test Started
+2019-01-29 10:00:01,744 [13] ERROR AlphaPoint_QA.Utils.APLogger - Login failed
+2019-01-29 10:00:01,744 [13] ERROR AlphaPoint_QA.Utils.APLogger -    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)
+   at AlphaPoint_QA.Common.UserFunctions.LogIn(ILog logger) in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Common\UserFunctions.cs:line 51
+2019-01-29 10:00:01,744 [13] ERROR AlphaPoint_QA.Utils.APLogger - Market Amount Persistence Test Failed
+2019-01-29 10:00:01,744 [13] ERROR AlphaPoint_QA.Utils.APLogger -    at AlphaPoint_QA.Common.UserFunctions.LogIn(ILog logger) in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Common\UserFunctions.cs:line 67
+   at AlphaPoint_QA.Test.OrderEntryTest.VerifyPricePersistancy() in E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\Test\OrderEntryTest.cs:line 41
+2019-01-29 10:00:01,745 [13] INFO AlphaPoint_QA.Utils.APLogger - Test Started

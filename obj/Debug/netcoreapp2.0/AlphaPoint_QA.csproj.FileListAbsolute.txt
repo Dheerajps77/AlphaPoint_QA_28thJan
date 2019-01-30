@@ -1,0 +1,140 @@
+C:\Users\akash.goel\source\repos\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\akash.goel\source\repos\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\akash.goel\source\repos\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\akash.goel\source\repos\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.deps.json
+C:\Users\akash.goel\source\repos\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.runtimeconfig.json
+C:\Users\akash.goel\source\repos\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.runtimeconfig.dev.json
+C:\Users\akash.goel\source\repos\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.dll
+C:\Users\akash.goel\source\repos\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.csprojAssemblyReference.cache
+C:\Users\akash.goel\source\repos\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.csproj.CoreCompileInputs.cache
+C:\Users\akash.goel\source\repos\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.AssemblyInfoInputs.cache
+C:\Users\akash.goel\source\repos\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.AssemblyInfo.cs
+C:\Users\akash.goel\source\repos\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.pdb
+C:\Users\akash.goel\source\repos\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.dll
+C:\Users\akash.goel\source\repos\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.pdb
+C:\Users\devashish.mohanty\Desktop\AlphaPointQA\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\devashish.mohanty\Desktop\AlphaPointQA\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\devashish.mohanty\Desktop\AlphaPointQA\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\devashish.mohanty\Desktop\AlphaPointQA\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.deps.json
+C:\Users\devashish.mohanty\Desktop\AlphaPointQA\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.runtimeconfig.json
+C:\Users\devashish.mohanty\Desktop\AlphaPointQA\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.runtimeconfig.dev.json
+C:\Users\devashish.mohanty\Desktop\AlphaPointQA\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.dll
+C:\Users\devashish.mohanty\Desktop\AlphaPointQA\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.pdb
+C:\Users\devashish.mohanty\Desktop\AlphaPointQA\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.csprojAssemblyReference.cache
+C:\Users\devashish.mohanty\Desktop\AlphaPointQA\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.csproj.CoreCompileInputs.cache
+C:\Users\devashish.mohanty\Desktop\AlphaPointQA\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.AssemblyInfoInputs.cache
+C:\Users\devashish.mohanty\Desktop\AlphaPointQA\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.AssemblyInfo.cs
+C:\Users\devashish.mohanty\Desktop\AlphaPointQA\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.dll
+C:\Users\devashish.mohanty\Desktop\AlphaPointQA\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.pdb
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.deps.json
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.runtimeconfig.json
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.runtimeconfig.dev.json
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.dll
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.pdb
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.csproj.CoreCompileInputs.cache
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.AssemblyInfoInputs.cache
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.AssemblyInfo.cs
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.dll
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.pdb
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.dll.config
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\log4net.config
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\App.config
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Linux\Chrome\chromedriver
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Linux\Firefox\geckodriver
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Linux\IE\IEDriverServer.exe
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Windows\Chrome\chromedriver.exe
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Windows\Firefox\geckodriver
+F:\BlockchainQA\POC\AlphaPoint_QA\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Windows\IE\IEDriverServer.exe
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Windows\Chrome\chromedriver.exe
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Linux\Chrome\chromedriver
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Linux\Firefox\geckodriver
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Linux\IE\IEDriverServer.exe
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Windows\Firefox\geckodriver
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Windows\IE\IEDriverServer.exe
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\App.config
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\log4net.config
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.dll.config
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.deps.json
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.runtimeconfig.json
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.runtimeconfig.dev.json
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.dll
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.pdb
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.csproj.CoreCompileInputs.cache
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.AssemblyInfoInputs.cache
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.AssemblyInfo.cs
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.dll
+E:\AP Code\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.pdb
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Linux\Chrome\chromedriver
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Linux\Firefox\geckodriver
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Linux\IE\IEDriverServer.exe
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Windows\Chrome\chromedriver.exe
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Windows\Firefox\geckodriver
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Windows\IE\IEDriverServer.exe
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\App.config
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\log4net.config
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.dll.config
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.deps.json
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.runtimeconfig.json
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.runtimeconfig.dev.json
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.dll
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.pdb
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.csprojAssemblyReference.cache
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.csproj.CoreCompileInputs.cache
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.AssemblyInfoInputs.cache
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.AssemblyInfo.cs
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.dll
+E:\SVN_WA\2244-MAGIC-Magic-Finserv-Sr-Delivery-Bench\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.pdb
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Windows\Chrome\chromedriver.exe
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Linux\Chrome\chromedriver
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Linux\Firefox\geckodriver
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Linux\IE\IEDriverServer.exe
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Windows\Firefox\geckodriver
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Windows\IE\IEDriverServer.exe
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\App.config
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\log4net.config
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.dll.config
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.deps.json
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.runtimeconfig.json
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.runtimeconfig.dev.json
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.dll
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.pdb
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.csproj.CoreCompileInputs.cache
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.AssemblyInfoInputs.cache
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.AssemblyInfo.cs
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.dll
+D:\SVN_WA\AlphaPoint\LatestBuild\AlphaPoint_QA\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.pdb
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Linux\Chrome\chromedriver
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Linux\Firefox\geckodriver
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Linux\IE\IEDriverServer.exe
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Windows\Chrome\chromedriver.exe
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Windows\Firefox\geckodriver
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\bin\Debug\netcoreapp2.0\Drivers\Windows\IE\IEDriverServer.exe
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\bin\Debug\netcoreapp2.0\App.config
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\bin\Debug\netcoreapp2.0\log4net.config
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.dll.config
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.deps.json
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.runtimeconfig.json
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.runtimeconfig.dev.json
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.dll
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\bin\Debug\netcoreapp2.0\AlphaPoint_QA.pdb
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.csprojAssemblyReference.cache
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.csproj.CoreCompileInputs.cache
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.AssemblyInfoInputs.cache
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.AssemblyInfo.cs
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.dll
+E:\SVN_WA_LAT\Latest_Alphapoint\FinalLatestCode_28Jan\AlphaPoint_QA\obj\Debug\netcoreapp2.0\AlphaPoint_QA.pdb
